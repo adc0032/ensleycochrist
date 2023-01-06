@@ -1,20 +1,20 @@
 ---
 layout: page
-title: About us
+title: About Us
 subtitle: First Black Church of Christ in Birmingham, AL
 ---
 
 ## History of the Ensley Church of Christ
 The **Ensley Church of Christ (ECOC)** was established in the 1930's by the late [Evangelist Marshall Keeble](https://www.jacksonst.org/marshall-keeble/) responsible for the rise of Black Churches of Christ in the South. 
 
-Our congregation is one of the earliest African American Churches of Christ in Alabama and the *first African American Church of Christ in Birmingham*. ECOC is the seed for all African American Churches of Christ in Birmingham. We are a viable, progressive, and spiritual Birmingham 501(c)(3) non-profit organization. 
+Our congregation is one of the earliest African American Churches of Christ in Alabama *and the first African American Church of Christ in Birmingham*. ECOC is the seed for all African American Churches of Christ in Birmingham. We are a viable, progressive, and spiritual Birmingham 501(c)(3) non-profit organization. 
 
 We are located at **1001 Dugan Avenue, Birmingham, AL 35214**
 
 
 ## Mission Statement of the Ensley Church of Christ
-Here at the Ensley Church of Christ, our vision is to reach more people for Christ with Luke 4:18 as our mission statement: 
-"The Spirit of the Lord is upon me, because he anoited me to preach good tidings to the poor: He hath sent me to proclaim release to the captives, and recovering of sight to the blind, to set at liberty them that are bruised."
+Here at the Ensley Church of Christ, our vision is to reach more people for Christ with **Luke 4:18** as our mission statement: 
+*"The Spirit of the Lord is upon me, because he anoited me to preach good tidings to the poor: He hath sent me to proclaim release to the captives, and recovering of sight to the blind, to set at liberty them that are bruised."*
 
 ## Leadership
 
@@ -26,8 +26,8 @@ Here at the Ensley Church of Christ, our vision is to reach more people for Chri
 
 ## Service Hours
 
-**Sunday Service - 10:00 AM**
+**Sunday Service - 10:00 AM** (Join us virtually!)
 
 **Sunday School - 11:30 AM**
 
-**Wednesday Bible Study - 6:00 PM**
+**Wednesday Bible Study - 6:00 PM** (Join us virtually!)
