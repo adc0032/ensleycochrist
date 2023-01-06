@@ -20,11 +20,26 @@ author: Technology Committee of ECOC
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutus"
+  Ministries:
+    - Youth: "https://beautifuljekyll.com"
+    - Women: "https://www.markdowntutorial.com/"
+    - Men:
+    - Community:
+  Events: "https://deanattali.com"
+  Non-members:
+    - Why the Church of Christ?: 
+    - Bible Study Requests:
+    - Prayer Request:
+  Members:
+    - Offering:
+    - Prayer Requests:
+    - Feedback:
+  Media:
+    - Sunday Service Live Stream: 
+    - Event Photos:
+
+  
 
 ################
 # --- Logo --- #
@@ -35,7 +50,7 @@ navbar-links:
 avatar: "/assets/img/invitation_church.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
