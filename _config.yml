@@ -66,11 +66,11 @@ round-avatar: false
 social-network-links:
   email: "ensleycochrist@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
+  facebook: https://www.facebook.com/groups/191286497589238
 # github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: c/daattali
+  youtube: c/UCtxWKCvQS5X-Bq2WI6WswWA
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -109,7 +109,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "EnsleyChurchofChrist.io"
+url-pretty: "EnsleyChurchofChrist"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
