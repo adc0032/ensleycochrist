@@ -27,5 +27,7 @@ Here at the Ensley Church of Christ, our vision is to reach more people for Chri
 ## Service Hours
 
 **Sunday Service - 10:00 AM**
+
 **Sunday School - 11:30 AM**
+
 **Wednesday Bible Study - 6:00 PM**
