@@ -21,6 +21,8 @@ Here at the Ensley Church of Christ, our vision is to reach more people for Chri
 - Stephen M. Clark, Sr. (Minister)
 - Will Howell (Assistant Minister)
 - Johnnie Allen (Treasurer)
+- Lenair Gamble (Trustee)
+- Anthony Ford (Trustee)
 - Stephen Howard (Youth Minister)
 - Laura Lane (Secretary)
 
