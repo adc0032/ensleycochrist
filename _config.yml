@@ -22,11 +22,11 @@ author: Technology Committee of ECOC
 navbar-links:
   About Us: "aboutus"
   Ministries:
-    - Youth: "https://beautifuljekyll.com"
-    - Women: "https://www.markdowntutorial.com/"
+    - Youth: 
+    - Women: 
     - Men:
     - Community:
-  Events: "https://deanattali.com"
+  Events: 
   Non-members:
     - Why the Church of Christ?: "whycoc"
     - Bible Study Requests:
