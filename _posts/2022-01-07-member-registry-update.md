@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECOC Membership Directory
-subtitle: Each post also has a subtitle
+subtitle: Love one another with brotherly affection. Outdo one another in showing honor. - Romans 12:10
 comments: true
 ---
 
