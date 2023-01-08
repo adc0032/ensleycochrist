@@ -30,10 +30,10 @@ navbar-links:
   Non-members:
     - Why the Church of Christ?: "whycoc"
     - Bible Study Requests:
-    - Prayer Request:
+    - Prayer Request: "prayerworks"
   Members:
     - Offering:
-    - Prayer Requests:
+    - Prayer Requests: "prayerworks"
     - Feedback:
   Media:
     - Sunday Service Live Stream: 
