@@ -26,7 +26,7 @@ navbar-links:
     - Women: 
     - Men:
     - Community:
-  Events: 
+  Events: "events"
   Non-members:
     - Why the Church of Christ?: "whycoc"
     - Bible Study Requests: "biblestudy"
