@@ -39,4 +39,4 @@ subtitle: Scriptural guidance on why you should be a member of the Church of Chr
 
 5. Be Baptized for the Remission of Sins.........................[Acts 2:38](https://biblia.com/bible/esv/Acts/2/38)
 
-6. Be Faithful Unto Death.........[Revelations 2:10](https://biblia.com/bible/esv/revelations/2/10)
+6. Be Faithful Unto Death.........[Revelation 2:10](https://biblia.com/bible/esv/revelation/2/10)
