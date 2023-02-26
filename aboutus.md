@@ -14,7 +14,7 @@ We are located at **1001 Dugan Avenue, Birmingham, AL 35214**
 
 ## Mission Statement of the Ensley Church of Christ
 Here at the Ensley Church of Christ, our vision is to reach more people for Christ with **Luke 4:18** as our mission statement: 
-*"The Spirit of the Lord is upon me, because he anoited me to preach good tidings to the poor: He hath sent me to proclaim release to the captives, and recovering of sight to the blind, to set at liberty them that are bruised."*
+*"The Spirit of the Lord is upon me, because he anointed me to preach good tidings to the poor: He hath sent me to proclaim release to the captives, and recovering of sight to the blind, to set at liberty them that are bruised."*
 
 ## Leadership
 
