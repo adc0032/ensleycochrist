@@ -30,6 +30,8 @@ Here at the Ensley Church of Christ, our vision is to reach more people for Chri
 
 **Sunday Service - 10:00 AM** (Join us virtually!)
 
-**Sunday School - 11:30 AM**
+**Children's Church - 10:15 AM**
 
-**Wednesday Bible Study - 6:00 PM** (Join us virtually!)
+**Sunday School - ~12:00 PM**
+
+**Wednesday Bible Study - 6:30 PM** (Join us virtually!)
