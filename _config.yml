@@ -25,7 +25,7 @@ navbar-links:
     - Youth: 
     - Women: 
     - Men:
-    - Community:
+    - Community: "community_min"
   Events: "events"
   Non-members:
     - Why the Church of Christ?: "whycoc"
