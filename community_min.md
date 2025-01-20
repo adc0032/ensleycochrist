@@ -10,4 +10,4 @@ The Ensley Church of Christ neighbors the [Birmingham Nursing and Rehab Center](
 
 ### Back to School 2025!
 
-Get your [backpacks](https://www.nomatic.com/products/the-nomatic-backpack?variant=39979864096840&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopzCZazKgDWlnrD39CEOfKrc58IJCrQ-Wb-ZVCM91HZqy3yC9Vm2_I&gQT=1) ready. More Info to Come
+Get your backpacks ready. More Info to Come
