@@ -11,4 +11,4 @@ Mark your calendars for upcoming events coordinated by the Ensley Church of Chri
 
 ## Ensley Church of Christ Black History Program
 
-![Join us for an artistic expression of Black History Remeberance!](assets/img/blackhistory2025.pdf) 
+![Join us for an artistic expression of Black History Remeberance!](assets/img/blackhistory2026_Page_1.jpg) 
