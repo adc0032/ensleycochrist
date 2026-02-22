@@ -9,7 +9,6 @@ subtitle: And do not forget to do good and to share with others, for with such s
 
 Mark your calendars for upcoming events coordinated by the Ensley Church of Christ.
 
-## Ensley Church of Christ Homecoming
+## Ensley Church of Christ Black History Program
 
-
-![Join Us for our Homecoming Celebration!](assets/img/homecoming2025.jpg) 
+![Join us for an artistic expression of Black History Remeberance!](assets/img/blackhistory2025.pdf) 
