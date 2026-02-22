@@ -15,7 +15,8 @@ February 28, 2026 from 2 - 4PM
 
 #### Where?
 
-Ensley Church of Christ 
+Ensley Church of Christ  
+
 
 1001 Dugan Ave. Birmingham,AL 35214
 
