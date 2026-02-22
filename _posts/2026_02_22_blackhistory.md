@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black History Program
-subtitle: 'We are not makers of history. We are made by history...' - Dr. Martin Luther King Jr.
+subtitle: \"We are not makers of history. We are made by history...\" - Dr. Martin Luther King Jr.
 comments: true
 ---
 
